@@ -16,4 +16,4 @@ Based on explanation we concluded the project goals
 ## Data
 This dataset is provided by PwC through Forage virtual intership. Please refers to their website to get access for the dataset
 
-![Alt text](customer churn dashboard.png)
+![customerchurn](customer churn dashboard.png)
