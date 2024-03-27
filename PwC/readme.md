@@ -36,4 +36,5 @@ Customer account insight:
 2. By payment method type, ...% customer use Electronich check to pay their bills.
 
 ### Customer Risk Analysis
+adfasdfa
 ![customer risk](Pictures\CustomerRisk.png)
