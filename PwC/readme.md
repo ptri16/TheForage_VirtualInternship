@@ -16,4 +16,4 @@ Based on explanation we concluded the project goals
 ## Data
 This dataset is provided by PwC through Forage virtual intership. Please refers to their website to get access for the dataset
 
-![Alt text]("D:\Courses\The Forage\PWC\Picture1.png")
+![Alt text](D:\Courses\The Forage\PWC\Picture1.png)
