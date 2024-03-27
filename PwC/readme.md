@@ -37,4 +37,4 @@ Customer account insight:
 
 ### Customer Risk Analysis
 adfasdfa
-![customer risk](Pictures\CustomerRisk.png)
+<!-- ![customer risk](Pictures\CustomerRisk.png) -->
