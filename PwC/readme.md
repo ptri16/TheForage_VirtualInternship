@@ -37,9 +37,11 @@ Customer account insight:
 
 ### Customer Risk Analysis
 After we identified customers who already leave, we could use the data to identify customers at risk.
-![CustomerRisk1](Pictures/CustomerRisk.png)
+![CustomerRisk1](Pictures/CustomerRisk1.png)
 
 **Insight**
 1. Customer in one year period of subscription is highly would leave the service and the percentage of leaver is decrease over period.
 2. Seems there is a problem with Fiber Optic services, since the services has the highest number of opened ticket and the highest churn rate rather than another internet services and phone services. By evaluate the price, fiber optic is the most expensive one. It seems customer do not find the price worth with the services has been give.
 3.  
+
+![CustomerRisk1](Pictures/CustomerRisk2.png)
