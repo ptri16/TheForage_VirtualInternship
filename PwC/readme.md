@@ -44,4 +44,5 @@ After we identified customers who already leave, we could use the data to identi
 2. Seems there is a problem with Fiber Optic services, since the services has the highest number of opened ticket and the highest churn rate rather than another internet services and phone services. By evaluate the price, fiber optic is the most expensive one. It seems customer do not find the price worth with the services has been give.
 3.  
 
-![CustomerRisk1](Pictures/CustomerRisk2.png)
+Add New Picture
+![CustomerRisk2](Pictures/CustomerRisk2.png)
