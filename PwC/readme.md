@@ -20,7 +20,7 @@ This dataset is provided by PwC through Forage virtual intership. Please refers 
 Through our visualizations, we have uncovered significant findings, we divide it into two parts customer churn analysis and customer risk analysis.
 ### Customer Churn Analysis
 We initiated our analysis by filtering the dataset to identify customers who have churned, providing insights into their behavior and preferences.
-![customerchurn](Pictures/CustomerChurn.png)
+![customerchurn](Pictures/CustomerChurn.jpg)
 
 Demographic Insight:
 1. MegaTel has lost 1869 customers or 27% their customer last month.
@@ -37,12 +37,17 @@ Customer account insight:
 
 ### Customer Risk Analysis
 After we identified customers who already leave, we could use the data to identify customers at risk.
-![CustomerRisk1](Pictures/CustomerRisk1.png)
+![CustomerRisk1](Pictures/CustomerRisk1.jpg)
 
 **Insight**
 1. Customer in one year period of subscription is highly would leave the service and the percentage of leaver is decrease over period.
 2. Seems there is a problem with Fiber Optic services, since the services has the highest number of opened ticket and the highest churn rate rather than another internet services and phone services. By evaluate the price, fiber optic is the most expensive one. It seems customer do not find the price worth with the services has been give.
 3.  
 
-Add New Picture
-![CustomerRisk2](Pictures/CustomerRisk2.png)
+![CustomerRisk2](Pictures/CustomerRisk2.jpg)
+**Insight**
+1. By average customer in one year subscription period tent to have lowest charges, then it seems the problem not from the price of services
+2. Month-to-month contract has the highest customer (almost half of customer) but also have the highest churn rate. For new customer they maybe want to check the service first, but for old customer this is a sign that customer maybe have a mind to leave or change service.
+3. Customer who shifted from month-to-month contract to yearly is not much as expected. It could be sign that month-to-month contract give more benefit but the risk of losing customer also high.
+4. We found that customer in mont-to-month contract tend to pay using electronic checks and mailed check, this could indicate that customer not really believe in the services and if someday they found better option or the service got bad they could end the subscription easily.
+
