@@ -20,7 +20,7 @@ This dataset is provided by PwC through Forage virtual intership. Please refers 
 Through our visualizations, we have uncovered significant findings, we divide it into two parts customer churn analysis and customer risk analysis.
 ### Customer Churn Analysis
 We initiated our analysis by filtering the dataset to identify customers who have churned, providing insights into their behavior and preferences.
-![customerchurn](Pictures/CustomerChurn.PNG)
+![customerchurn](Pictures/CustomerChurn.png)
 
 Demographic Insight:
 1. MegaTel has lost 1869 customers or 27% their customer last month.
