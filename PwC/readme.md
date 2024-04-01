@@ -46,8 +46,10 @@ After we identified customers who already leave, we could use the data to identi
 
 ![CustomerRisk2](Pictures/CustomerRisk2.jpg)
 **Insight**
-1. By average customer in one year subscription period tent to have lowest charges, then it seems the problem not from the price of services
-2. Month-to-month contract has the highest customer (almost half of customer) but also have the highest churn rate. For new customer they maybe want to check the service first, but for old customer this is a sign that customer maybe have a mind to leave or change service.
-3. Customer who shifted from month-to-month contract to yearly is not much as expected. It could be sign that month-to-month contract give more benefit but the risk of losing customer also high.
-4. We found that customer in mont-to-month contract tend to pay using electronic checks and mailed check, this could indicate that customer not really believe in the services and if someday they found better option or the service got bad they could end the subscription easily.
+1. Contrary to expectations, our analysis reveals that despite monthly contracts offering lower charges, they exibit the highest churn rates compared to other subscription options. This indicates that factors beyong pricing, such as flexibility or customer preferences heavily influence subscription decisions and subsequent churn rates. **This insight emphasize the need to explore non-price-related factores when devising retention strategies**
+
+2. Despite not being driven solely by charges, it's significant to note that fiber optic services, which boast the highest average monthly fees, coincide with a notable volume of tecnical support tickets opened. **This correlation may indicate potential dissatisfaction with the services quality provided**.
+
+3. Our examination of contract types distribution unveils a suprising trend: even customers subscribed for a 2 and 3-year period predominantly opt for monthly contracts. **This suggests potential dissatisfaction with the provided services, possibly leading to subscription cancellations**
+
 
