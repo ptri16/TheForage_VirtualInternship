@@ -23,33 +23,31 @@ We initiated our analysis by filtering the dataset to identify customers who hav
 ![customerchurn](Pictures/CustomerChurn.jpg)
 
 Demographic Insight:
-1. MegaTel has lost 1869 customers or 27% their customer last month.
-2. By demographic, most of customers who churned is do not have partner and dependents. This could be indicate that MegaTel services doesn't give customer great experience for individual customers.
-3. 55% of churned customer only signed up their services for less than 1 years where 20% already churn on the first month of transaction.
+1. Majority of churned customers do not report having dependents or partners. **This observation hints at a potential discrepancy between the service offered and customer expectations, indicating a need for further investigation into factors influencing churn.**
+
+2.  55% of churned customers were within their first year of subscription, with a majority churning within the first month. **This suggests potential dissatisfaction with the service provided or a failure to meet customer expectations.**
 
 Usage Pattern Insight:
-1. 91% of lost customers were signed up for phone services, but there's no significant differences for customer who signed up for multiple line and not.
-2. By internet services, 69% signed up Fiber Optic, and the second place is DSL with 25% subscriber. This could indicate that Fiber optic services not give customers good experience or the price is expensive for the services.
+1. Among lost customers, 91% had subscribed to phone services, with no discernible differences observed for those who opted for multiple lines versus those who did not.
+
+2. In terms of internet services, 69% of subscribers opted for Fiber Optic, while DSL accounted for 25% of subscribers, **suggesting potential dissatisfaction with the Fiber Optic services or pricing considerations.**
 
 Customer account insight:
-1. By contract type, 89% customer use month-to-month contract. This findings is on a line with the fact that most of customer leave before 1 year of subscription. 
-2. By payment method type, 57% customer use Electronich check to pay their bills.
+1. In terms of contract type, 89% of customers opt for month-to-month contracts. This aligns with the observation that the majority of customers churn before completing one year of their subscription
 
 ### Customer Risk Analysis
 After we identified customers who already leave, we could use the data to identify customers at risk.
 ![CustomerRisk1](Pictures/CustomerRisk1.jpg)
 
-**Insight**
-1. Customer in one year period of subscription is highly would leave the service and the percentage of leaver is decrease over period.
-2. Seems there is a problem with Fiber Optic services, since the services has the highest number of opened ticket and the highest churn rate rather than another internet services and phone services. By evaluate the price, fiber optic is the most expensive one. It seems customer do not find the price worth with the services has been give.
-3.  
-
 ![CustomerRisk2](Pictures/CustomerRisk2.jpg)
 **Insight**
-1. Contrary to expectations, our analysis reveals that despite monthly contracts offering lower charges, they exibit the highest churn rates compared to other subscription options. This indicates that factors beyong pricing, such as flexibility or customer preferences heavily influence subscription decisions and subsequent churn rates. **This insight emphasize the need to explore non-price-related factores when devising retention strategies**
+1. Customer within their first year especially the first 3 months exhibit a markedly higher churn rate compared to those in subsequent years. **This finding underscores the significance of addressing retention strategiies, particularly during the initial stages of customer acquisition
+**
 
-2. Despite not being driven solely by charges, it's significant to note that fiber optic services, which boast the highest average monthly fees, coincide with a notable volume of tecnical support tickets opened. **This correlation may indicate potential dissatisfaction with the services quality provided**.
+2. Contrary to expectations, our analysis reveals that despite monthly contracts offering lower charges, they exibit the highest churn rates compared to other subscription options. This indicates that factors beyong pricing, such as flexibility or customer preferences heavily influence subscription decisions and subsequent churn rates. **This insight emphasize the need to explore non-price-related factores when devising retention strategies**
 
-3. Our examination of contract types distribution unveils a suprising trend: even customers subscribed for a 2 and 3-year period predominantly opt for monthly contracts. **This suggests potential dissatisfaction with the provided services, possibly leading to subscription cancellations**
+3. Despite not being driven solely by charges, it's significant to note that fiber optic services, which boast the highest average monthly fees, coincide with a notable volume of tecnical support tickets opened. **This correlation may indicate potential dissatisfaction with the services quality provided**.
+
+4. Our examination of contract types distribution unveils a suprising trend: even customers subscribed for a 2 and 3-year period predominantly opt for monthly contracts. **This suggests potential dissatisfaction with the provided services, possibly leading to subscription cancellations**
 
 
