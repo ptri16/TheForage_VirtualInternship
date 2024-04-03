@@ -10,4 +10,4 @@
     * Presentation Deck
 
 ## Disclaimer
-All of the data belong to Forage and all of analysis belong to me. Feel free to fork and use it as an inspiration for you visualization ✨
+All of the data belong to Forage and all of analysis belong to me. Feel free to fork and use it as an inspiration for your visualization ✨
