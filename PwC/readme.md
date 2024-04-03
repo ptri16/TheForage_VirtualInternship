@@ -50,7 +50,8 @@ After we identified customers who already leave, we could use the data to identi
 4. Our examination of contract types distribution unveils a suprising trend: even customers subscribed for a 2 and 3-year period predominantly opt for monthly contracts. **This suggests potential dissatisfaction with the provided services, possibly leading to subscription cancellations**
 
 
-## Retention Strategy
+> [!RETENTION]
+> Helpful advice for doing things better or more easily
 1. Enhanced Onboarding and Early Engagement
     * Provide proactive support and check-ins during the first few months to address any issues or concern promptly
     * Offer incentive or loyalty program to customers who remained subscribed beyond the first three months
